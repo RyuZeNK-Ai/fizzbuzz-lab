@@ -1,7 +1,6 @@
 <h1 align="center">🧮 FizzBuzz Lab — Tareas 1 a 7 🧮</h1>
 
-Este proyecto contiene una serie de ejercicios progresivos para practicar **lógica de programación** en JavaScript utilizando Node.js.  
-A través de estas tareas se trabajan bucles, condicionales, entrada por consola, arreglos y detección de números primos.
+Este proyecto contiene una serie de ejercicios progresivos para practicar **lógica de programación** en JavaScript utilizando Node.js. A través de estas tareas se trabajan bucles, condicionales, entrada por consola, arreglos y detección de números primos.
 
 <div align="center">
 
